@@ -14,7 +14,7 @@
 This project aims to create a system that identifies patient conditions using Natural Language Processing (NLP) and Machine Learning (ML) techniques. By automating the classification of patient conditions based on drug reviews, we can help reduce the workload for healthcare professionals and facilitate early evaluation of patient types.
 
 ## Dataset
-The dataset is sourced from the [UCI Drug Review Dataset](https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29).
+The dataset is sourced from the [UCI Drug Review Dataset](https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29) that is my google drive link : https://drive.google.com/file/d/1g4_sN30W54Z7XFpwOoaHIDewl44AR7tB/view?usp=sharing.
 
 ## Exploratory Data Analysis (EDA)
 - Statistical analysis and visualizations of the data to uncover trends and patterns.
