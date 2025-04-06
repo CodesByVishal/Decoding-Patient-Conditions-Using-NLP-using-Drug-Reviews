@@ -36,4 +36,4 @@ The dataset is sourced from the [UCI Drug Review Dataset](https://archive.ics.uc
 1. Confusion Matrix
 2. Accuracy Metrics
 
-Feel free to explore the code, contribute, and help improve our understanding of patient conditions through data-driven insights!!
+Feel free to explore the code, contribute, and help improve my understanding of patient conditions through data-driven insights!!!
